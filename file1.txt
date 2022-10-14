@@ -1,4 +1,0 @@
-this is my .txt file
-i am editing the fuile
-vchavgbnz	a
-i have changed to check git diff --stage file  
